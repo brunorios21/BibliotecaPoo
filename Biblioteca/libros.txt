@@ -1,0 +1,10 @@
+001,Don Quijote de la Mancha,Miguel de Cervantes,1605,false
+002,Cien anos de soledad,Gabriel Garcia Marquez,1967,true
+003,1984,George Orwell,1949,false
+004,Orgullo y prejuicio,Jane Austen,1813,true
+005,El senor de los anillos,J.R.R. Tolkien,1954,false
+006,Rayuela,Julio Cortazar,1963,true
+007,Ficciones,Jorge Luis Borges,1944,false
+008,Crimen y castigo,Fyodor Dostoevsky,1866,true
+009,Matar a un ruisenor,Harper Lee,1960,false
+010,El principito,Antoine de Saint-Exupery,1943,true
